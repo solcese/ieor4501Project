@@ -1,8 +1,8 @@
 # ieor4501Project
 
-## Test
+## Group Members : 
 
-1. S
-2. B
-Group memebers : 1. Shawn Olcese \n
-                 2. Kourosh Fathi
+1. Shawn Olcese
+2. Kourosh Fathi
+
+This repository contians two .ipynb files named Top10 and Parking which contain various anayses on a dataset taken from 311 calls in NYC.
